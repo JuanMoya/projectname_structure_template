@@ -1,2 +1,2 @@
 # Description
-This folder contains the different gds files associated to the different integration levels.
+This folder contains the different gds files associated with the different integration levels.
