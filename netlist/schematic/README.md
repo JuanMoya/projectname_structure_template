@@ -1,2 +1,2 @@
 # Description
-This folder contains the .spice files for the different blocks that integrated the project.
+This folder contains the .spice files for the different schematic blocks that integrated the project.
